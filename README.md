@@ -47,4 +47,4 @@ The model was evaluated using:
 
 This project was presented at the **Global Conference on Computational Mathematics and Intelligent Engineering Applications (GCCMIEA-2025)**.
 
-📄 **Publication:** [View Research Paper](X-SecurePay-Publication.pdf)
+📄 **Publication:** [View Research Paper](X-SecurePay Publication.pdf)
