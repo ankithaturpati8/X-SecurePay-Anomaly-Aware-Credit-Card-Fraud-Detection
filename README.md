@@ -44,4 +44,7 @@ The model was evaluated using:
 - SHAP Feature Importance
 
 ## Research Publication
-This work was presented at the **Global Conference on Computational Mathematics and Intelligent Engineering Applications (GCCMIEA-2025)**.
+
+This project was presented at the **Global Conference on Computational Mathematics and Intelligent Engineering Applications (GCCMIEA-2025)**.
+
+📄 **Publication:** [View Research Paper](X-SecurePay-Publication.pdf)
