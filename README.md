@@ -42,9 +42,3 @@ The model was evaluated using:
 - Confusion Matrix
 - ROC-AUC Score
 - SHAP Feature Importance
-
-## Research Publication
-
-This project was presented at the **Global Conference on Computational Mathematics and Intelligent Engineering Applications (GCCMIEA-2025)**.
-
-📄 **Publication:** [View Research Paper](X-SecurePay-Publication.pdf)
